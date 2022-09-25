@@ -1,0 +1,130 @@
+body {
+    background-color: #13002B;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    background-color: #6C7083;
+    font-size: 32px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+    
+    /* Tela inicial Menu */
+
+h1 {
+    color: white;
+    font-size: 48px;
+    margin-left: 185px;
+    margin-top: 54px;
+}
+
+img#logo {
+    margin-left: 500px;
+    margin-top: -250px;
+    padding: 0px;
+}
+
+
+p#menu {
+    width: 650px;
+    height: 420px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+img#foto {
+    position: absolute;
+    width: 600px;
+    height: 420px;
+    margin-left: 685px;
+    margin-top: -453px;
+
+}
+/* Menu de navegação */
+
+nav {
+    color: white;
+    display: block;
+    margin-left: 878px;
+    margin-top: -240px;
+}
+
+nav ul {
+    list-style: none;
+    font-size: 36px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Currriculum */
+
+p#curriculum {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+ul#experiencia {
+    color: white;
+    text-align: center;
+    list-style: none;
+}
+
+img#fatec {
+    width: 692px;
+}
+
+img#ifsp {
+    position: absolute;
+    width: 600px;
+    height: 390px;
+    margin-left: 10px; 
+}
+
+h3 {
+    color: white;
+}
+
+h3#fatec {
+    margin-left: 100px;
+    margin-top: -5px;
+}
+
+h3#ifsp {
+    margin-left: 850px;
+    margin-top: -40px;
+}
+
+/* Contato */
+
+img#linkedin {
+    width: 225px;
+    height: 225px;
+    margin: 80px auto auto 350px;
+}
+
+img#github {
+    width: 225px;
+    height: 225px; 
+    margin: 10px auto auto 200px;
+}
+
+p#contato {
+    text-align: center;
+    width: 600px;
+    margin-left: 380px ;
+}
